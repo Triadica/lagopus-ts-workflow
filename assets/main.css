@@ -1,0 +1,14 @@
+
+@import url("@triadica/touch-control/assets/touch-control.css");
+
+body {
+  margin: 0;
+  background-color: black;
+  overscroll-behavior-y: none;
+  overscroll-behavior-x: none;
+}
+
+canvas {
+  width: 100vw;
+  height: 100vh;
+}
